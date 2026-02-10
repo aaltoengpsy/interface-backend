@@ -1,0 +1,22 @@
+right_choices = [
+    "Soon after the advent of color television, white shirts became less popular as dressy attire for men, and pastel-colored shirts began to sell well.",
+    "Federal pay is out of line.",
+    "No high jumper entered the meet.",
+    "Therefore, if the overweight men between 25 and 50 were to lose weight, their risk of heart disease would be reduced.",
+    "Some brilliant mathematicians require calculators for simple multiplication facts.",
+    "Women tend to conform to social expectations.",
+    "the powerful can often avoid serious criminal sentences",
+    "When the dog has fleas, he always scratches. But the dog doesn’t have fleas, so he won’t be scratching.",
+    "sign ordinances are rarely, if ever effective",
+    "happenstance will be more beneficial to those who are prepared",
+    "not doing anything is not an act",
+    "Jumbo shrimp may not actually be very big.",
+    "the lie detector is sometimes worthless",
+    "citing the number of cases in which the lie detector mistook falsehood for truth",
+    "The very threat of a lie-detector test has led to a significant number of criminals to confess.",
+    "Danish automobiles also leak oil.",
+    "disapproving",
+    "water conservation",
+    "Ten years ago, most letters reached their destination within twenty-four hours.",
+    "may or may not pass the course"
+]
