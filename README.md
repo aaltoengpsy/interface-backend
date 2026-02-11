@@ -65,6 +65,9 @@ PROLIFIC_URL=prolific_return_url_here   # Completion url to be displayed to the 
 
 [Install redis](https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/) locally; we need this for [queue management](#queue-management).
 
+[Install redis as background process](https://github.com/tporadowski/redis/releases/tag/v5.0.14.1) locally; we need this for [queue management](#queue-management).
+
+
 ### Run
 
 MacOS users can simply use the premade script in `run_osx.sh`:
