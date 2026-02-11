@@ -57,10 +57,10 @@ OPENAI_API_KEY=api_key_here
 GPT_VERSION=gpt-4-turbo
 GPT_TOKEN_LIMIT=1000                     
 FRONTEND_URL=frontend_url_here          # http://localhost:5173 by default
-DATABASE_URL=mongodb_url_here
-DATABASE_NAME=database_name_here        # Name of the database within the cluster that DATABASE_URL points to
-PROLIFIC_CODE=prolific_return_code_here # Completion code to be displayed to the participant (not necessarily prolific)
-PROLIFIC_URL=prolific_return_url_here   # Completion url to be displayed to the participant (not necessarily prolific)
+DATABASE_URL=mongodb_url_here           # *not relevant for CS-C4000 RMEP, leave as is*
+DATABASE_NAME=database_name_here        # *not relevant for CS-C4000 RMEP, leave as is* Name of the database within the cluster that DATABASE_URL points to
+PROLIFIC_CODE=prolific_return_code_here # *not relevant for CS-C4000 RMEP, leave as is* Completion code to be displayed to the participant (not necessarily prolific)
+PROLIFIC_URL=prolific_return_url_here   # *not relevant for CS-C4000 RMEP, leave as is* Completion url to be displayed to the participant (not necessarily prolific)
 ```
 
 [Install redis](https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/) locally; we need this for [queue management](#queue-management).
